@@ -2,7 +2,7 @@
 
 Come on let's view my portfolio
 
-- Click link in 👉👉👉 https://alfdhiw.github.io/Myportfolio/
+- Click link in 👉👉👉 <a href= "https://alfdhiw.github.io/Myportfolio/" target="_blank"> </a>
 
 - Build with :
 
