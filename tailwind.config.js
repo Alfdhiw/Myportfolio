@@ -1,5 +1,9 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['index.html'],
+  content: ['./resources/views/home.blade.php',
+            "./resources/js/app.js",
+            "./resources/js/bootsrap.js",
+            "./resources/css/app.css",],
   darkMode: 'class',
   theme: {
     container: {
